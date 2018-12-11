@@ -51,7 +51,6 @@ type webapp = [
 ];
 
 /* 1) the extended function **/
-
 let appSummary = (app: webapp) : string => {
     switch (app) {
         | `CorporateSite(`Domain(_)) as ws => siteSummary(ws)
@@ -65,8 +64,7 @@ Js.log("---")
 let fb = `SocialApp(`Domain("facebook.com"))
 Js.log(appSummary(fb))
 
-/* 2) the extended function improved!!! **/
-
+/* 2) the extended function improved! **/
 let appSummaryImproved = (app: webapp) : string => {
     switch (app) {
         | #website as ws => siteSummary(ws)
