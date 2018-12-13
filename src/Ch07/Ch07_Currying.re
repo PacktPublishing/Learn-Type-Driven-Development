@@ -13,4 +13,4 @@ let printEnveloppeLabelUS = printEnveloppeLabel(~country="USA");
 printEnveloppeLabelUS("John", "Doe", "Some address in the US");
 
 let printEnveloppeLabelDoeFamily = printEnveloppeLabelUS(~lastname="Doe", ~address="Some address in the US");
-printEnveloppeLabelDoeFamily("Jane");
+printEnveloppeLabelDoeFamily(~firstname="Jane");
