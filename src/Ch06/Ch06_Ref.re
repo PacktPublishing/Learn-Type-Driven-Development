@@ -1,4 +1,4 @@
-/* src/Ch06/Ch06_Option.re */
+/* src/Ch06/Ch06_Ref.re */
 let tryFind(needle, haystack) = {
   let currHaystack = ref(haystack);
   let stop = ref(false);
