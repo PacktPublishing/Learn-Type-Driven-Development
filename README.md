@@ -65,7 +65,7 @@ is a web developer/DevOps engineer working with a variety of tools. He spends mo
 
 
 ## Other books by the authors
-[](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition?utm_source=github&utm_medium=repository&utm_campaign=)
+* Mastering Python Design Patterns - Second Edition [[Packt]](https://www.packtpub.com/application-development/mastering-python-design-patterns-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/B07FNXNXY7)
 
 
 
