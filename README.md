@@ -49,9 +49,9 @@ With the following software and hardware list you can run all code files present
 
 
 ### Related products
-* Learn WebAssembly [[Packt]](https://www.packtpub.com/web-development/learn-webassembly?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1-788-99737-9)
+* Learn WebAssembly [[Packt]](https://www.packtpub.com/web-development/learn-webassembly?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1788997379)
 
-* Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1-789-61025-7)
+* Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1789610257)
 
 *  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
