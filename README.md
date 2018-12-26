@@ -59,11 +59,11 @@ With the following software and hardware list you can run all code files present
 
 ## Get to Know the Author
 **Yawar Amin**
-Yawar Amin is a software engineer working in Toronto, Canada. He has worked on data science-based recommendation systems, customer-facing applications, and large data engineering projects. In his spare time, he likes to read, write, and use the Oxford comma whenever he can.
+is a software engineer working in Toronto, Canada. He has worked on data science-based recommendation systems, customer-facing applications, and large data engineering projects. In his spare time, he likes to read, write, and use the Oxford comma whenever he can.
 
 
 **Kamon Ayeva**
-Kamon Ayeva is a web developer/DevOps engineer working with a variety of tools. He spends most of his time building projects using Python's powerful scripting capabilities, add-on libraries, and web frameworks such as Django or Flask. Kamon has been using Python in professional contexts for more than 12 years. Based on his recent experience of using the type system that was added to Python 3, as well as developing a user interface using the React framework, latterly, he has started exploring type-driven development in JavaScript.
+is a web developer/DevOps engineer working with a variety of tools. He spends most of his time building projects using Python's powerful scripting capabilities, add-on libraries, and web frameworks such as Django or Flask. Kamon has been using Python in professional contexts for more than 12 years. Based on his recent experience of using the type system that was added to Python 3, as well as developing a user interface using the React framework, latterly, he has started exploring type-driven development in JavaScript.
 
 
 
