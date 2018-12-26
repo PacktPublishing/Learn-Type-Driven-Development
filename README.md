@@ -53,9 +53,6 @@ With the following software and hardware list you can run all code files present
 
 * Learn React with TypeScript 3 [[Packt]](https://www.packtpub.com/web-development/learn-react-typescript-3?utm_source=github&utm_medium=repository&utm_campaign=9781789610253 ) [[Amazon]](https://www.amazon.com/dp/1789610257)
 
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
-
-*  [[Packt]]() [[Amazon]](https://www.amazon.com/dp/)
 
 ## Get to Know the Author
 **Yawar Amin**
